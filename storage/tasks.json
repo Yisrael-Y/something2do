@@ -1,0 +1,214 @@
+{
+  "activities": [
+    {
+      "activity": "Learn origami",
+      "type": "education",
+      "participants": 1,
+      "price": 0.2,
+      "link": "",
+      "key": "8394738",
+      "accessibility": 0.3,
+      "score": 2
+    },
+    {
+      "activity": "Clean out your car",
+      "type": "busywork",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "2896176",
+      "accessibility": 0.08,
+      "score": 0
+    },
+    {
+      "activity": "Make a bucket list",
+      "type": "busywork",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "2735499",
+      "accessibility": 0,
+      "score": 0
+    },
+    {
+      "activity": "Go on a fishing trip with some friends",
+      "type": "social",
+      "participants": 3,
+      "price": 0.4,
+      "link": "",
+      "key": "3149232",
+      "accessibility": 0.4,
+      "score": 0
+    },
+    {
+      "activity": "Hold a yard sale",
+      "type": "social",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "1432113",
+      "accessibility": 0.1,
+      "score": 0
+    },
+    {
+      "activity": "Clean out your refrigerator",
+      "type": "busywork",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "9324336",
+      "accessibility": 0,
+      "score": 0
+    },
+    {
+      "activity": "Bake something you've never tried before",
+      "type": "cooking",
+      "participants": 1,
+      "price": 0.4,
+      "link": "",
+      "key": "5665663",
+      "accessibility": 0.3,
+      "score": 0
+    },
+    {
+      "activity": "Pull a harmless prank on one of your friends",
+      "type": "social",
+      "participants": 1,
+      "price": 0.1,
+      "link": "",
+      "key": "1288934",
+      "accessibility": 0.2,
+      "score": 0
+    },
+    {
+      "activity": "Cook something together with someone",
+      "type": "cooking",
+      "participants": 2,
+      "price": 0.3,
+      "link": "",
+      "key": "1799120",
+      "accessibility": 0.8,
+      "score": 0
+    },
+    {
+      "activity": "Learn how to whistle with your fingers",
+      "type": "education",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "2790297",
+      "accessibility": 0,
+      "score": 0
+    },
+    {
+      "activity": "Write a note of appreciation to someone",
+      "type": "social",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "1770521",
+      "accessibility": 0,
+      "score": 0
+    },
+    {
+      "activity": "Go for a run",
+      "type": "recreational",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "6852505",
+      "accessibility": 0.9,
+      "score": 0
+    },
+    {
+      "activity": "Shop at support your local farmers market",
+      "type": "relaxation",
+      "participants": 1,
+      "price": 0.2,
+      "link": "",
+      "key": "8979931",
+      "accessibility": 0.1,
+      "score": 0
+    },
+    {
+      "activity": "Memorize a favorite quote or poem",
+      "type": "education",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "9008639",
+      "accessibility": 0.8,
+      "score": 0
+    },
+    {
+      "activity": "Catch up on world news",
+      "type": "recreational",
+      "participants": 1,
+      "price": 0.05,
+      "link": "",
+      "key": "6596257",
+      "accessibility": 0.07,
+      "score": 0
+    },
+    {
+      "activity": "Fill out a basketball bracket",
+      "type": "recreational",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "7806284",
+      "accessibility": 0.1,
+      "score": 0
+    },
+    {
+      "activity": "Study a foreign language",
+      "type": "education",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "9765530",
+      "accessibility": 0.1,
+      "score": 0
+    },
+    {
+      "activity": "Surprise your significant other with something considerate",
+      "type": "social",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "6204657",
+      "accessibility": 0,
+      "score": 0
+    },
+    {
+      "activity": "Organize your pantry",
+      "type": "busywork",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "3954882",
+      "accessibility": 0,
+      "score": 0
+    },
+    {
+      "activity": "Start a daily journal",
+      "type": "relaxation",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "8779876",
+      "accessibility": 0,
+      "score": 0
+    },
+    {
+      "activity": "Give your pet ten minutes of focused attention",
+      "type": "relaxation",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "9937387",
+      "accessibility": 0,
+      "score": 0
+    }
+  ]
+}

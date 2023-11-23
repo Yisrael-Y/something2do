@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "id": "user123",
+      "name": "User A",
+      "wishList": [
+        {
+          "activity": "Improve your touch typing",
+          "type": "busywork",
+          "participants": 1,
+          "price": 0,
+          "link": "https://en.wikipedia.org/wiki/Touch_typing",
+          "key": "2526437",
+          "accessibility": 0.8,
+          "score": 1
+        },
+        {
+          "activity": "Have a photo session with some friends",
+          "type": "social",
+          "participants": 4,
+          "price": 0.05,
+          "link": "",
+          "key": "3305912",
+          "accessibility": 0.8,
+          "score": 1
+        },
+        {
+          "activity": "Learn how to fold a paper crane",
+          "type": "education",
+          "participants": 1,
+          "price": 0.1,
+          "link": "",
+          "key": "3136036",
+          "accessibility": 0.05,
+          "score": 1
+        },
+        {
+          "activity": "Learn calligraphy",
+          "type": "education",
+          "participants": 1,
+          "price": 0.1,
+          "link": "",
+          "key": "4565537",
+          "accessibility": 0.1,
+          "score": 1
+        },
+        {
+          "activity": "Play basketball with a group of friends",
+          "type": "social",
+          "participants": 5,
+          "price": 0,
+          "link": "",
+          "key": "8683473",
+          "accessibility": 0.7,
+          "score": 1
+        }
+      ],
+      "completedTasks": [
+        {
+          "activity": "Learn origami",
+          "type": "education",
+          "participants": 1,
+          "price": 0.2,
+          "link": "",
+          "key": "8394738",
+          "accessibility": 0.3,
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": "user456",
+      "name": "User B",
+      "wishList": [
+        "task4"
+      ],
+      "completedTasks": [
+        "task5"
+      ]
+    },
+    {
+      "id": "user789",
+      "name": "User C",
+      "wishList": [
+        "task6",
+        "task7"
+      ],
+      "completedTasks": [
+        "task8"
+      ]
+    }
+  ]
+}
